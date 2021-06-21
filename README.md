@@ -1,6 +1,6 @@
 # CPP-SensorFusion-Unscented_Kalman_Filter
 * This project is a modified version of [this repo](https://github.com/udacity/SFND_Unscented_Kalman_Filter) shared as part of Udacity's Sensor Fusion Nano Degree Program.
-* This project has the `ukf.h` and `ukf.cpp` files from `src` folder edited to enable simulation of sensor fusion using Unscented Kalman Filter to fuse measurements from Lidar and Radar.
+* This project has the `ukf.h` and `ukf.cpp` files from `src` folder edited with well commented lines of code to enable simulation of sensor fusion using Unscented Kalman Filter to fuse measurements from Lidar and Radar.
 ## Important Dependencies
 * cmake >= 3.5
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
