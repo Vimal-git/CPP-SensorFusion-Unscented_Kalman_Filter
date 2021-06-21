@@ -1,5 +1,6 @@
-# SFND_Unscented_Kalman_Filter
-Sensor Fusion UKF Highway Project Starter Code
+# The instructions provided with the project: SFND_Unscented_Kalman_Filter
+# as part of Udacity's Sensor Fusion Nano Degree program.
+Sensor Fusion UKF Highway Project Starter Code and the related files can be cloned from [here](https://github.com/udacity/SFND_Unscented_Kalman_Filter)
 
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
 
